@@ -27,9 +27,7 @@ Before we start, it'll be good to know how Logto works. To simplify, we divide L
 - **Core Service** is the foundation of Logto, which provides essential APIs to support everything else.
 - **SDKs** are the bridges between your application and Logto.
 
-import basicConcepts from './assets/basic-concepts.png';
-
-<img src={basicConcepts} alt="Basic concepts" width="600px" />
+<img src={require('./assets/basic-concepts.png').default} alt="Basic concepts" width="600px" />
 
 :::info
 Admin Console is the easiest way to customize and manage Sign-in Experience and Core Service, and we'll use it across the tutorial.
