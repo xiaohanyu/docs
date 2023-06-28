@@ -1,5 +1,9 @@
 lockfileVersion: '6.0'
 
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
 devDependencies:
   '@algolia/client-search':
     specifier: ^4.13.1
@@ -56,8 +60,8 @@ devDependencies:
     specifier: ^0.17.0
     version: 0.17.0(typescript@5.0.2)
   '@tsconfig/docusaurus':
-    specifier: ^1.0.6
-    version: 1.0.6
+    specifier: ^2.0.0
+    version: 2.0.0
   '@types/node':
     specifier: ^18.11.5
     version: 18.11.5
@@ -3076,8 +3080,8 @@ packages:
     engines: {node: '>=10.13.0'}
     dev: true
 
-  /@tsconfig/docusaurus@1.0.6:
-    resolution: {integrity: sha512-1QxDaP54hpzM6bq9E+yFEo4F9WbWHhsDe4vktZXF/iDlc9FqGr9qlg+3X/nuKQXx8QxHV7ue8NXFazzajsxFBA==}
+  /@tsconfig/docusaurus@2.0.0:
+    resolution: {integrity: sha512-X5wptT7pXA/46/IRFTW76oR5GNjoy9qjNM/1JGhFV4QAsmLh3YUpJJA+Vpx7Ds6eEBxSxz1QrgoNEBy6rLVs8w==}
     dev: true
 
   /@tsconfig/node10@1.0.9:
