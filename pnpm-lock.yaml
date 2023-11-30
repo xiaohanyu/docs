@@ -69,8 +69,8 @@ devDependencies:
     specifier: ^18.2.38
     version: 18.2.38
   clsx:
-    specifier: ^1.1.1
-    version: 1.1.1
+    specifier: ^2.0.0
+    version: 2.0.0
   core-js:
     specifier: ^3.23.0
     version: 3.23.0
@@ -3615,7 +3615,7 @@ packages:
     resolution: {integrity: sha512-Wn6c/tXdEgi9adCMtDwx8Q2vGty6TsPTc/wCQQ9kAlye8UqFxj0vGFWWuhywNfkwqth+SOgJxQTLTZukrqDQmQ==}
     dependencies:
       '@types/history': 4.7.11
-      '@types/react': 17.0.53
+      '@types/react': 18.2.38
       '@types/react-router': 5.1.18
     dev: true
 
@@ -4840,11 +4840,6 @@ packages:
       is-plain-object: 2.0.4
       kind-of: 6.0.3
       shallow-clone: 3.0.1
-    dev: true
-
-  /clsx@1.1.1:
-    resolution: {integrity: sha512-6/bPho624p3S2pMyvP5kKBPXnI3ufHLObBFCfgx+LkeR5lg2XYy2hqZqUf45ypD8COn2bhgGJSUE+l5dhNBieA==}
-    engines: {node: '>=6'}
     dev: true
 
   /clsx@1.2.1:
